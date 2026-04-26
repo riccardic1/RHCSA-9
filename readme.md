@@ -39,7 +39,7 @@ checklists/      # Exam prep checklists and quick references
 - Podman installed for container-related objectives
 
 ## 📌 Disclaimer
-This repository is intended for personal study purposes. It does not contain Red Hat exam material and is not affiliated with Red Hat.
+This repository is solely intended for my personal study purposes. It does not contain Red Hat exam material and is not affiliated with Red Hat.
 
 ## 🚀 Progress Tracking
 I will continue updating this repository as I move through each objective and related labs.
